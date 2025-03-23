@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# ERC20 Token Deployment on Base Sepolia
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+A minimal implementation for deploying a standard ERC20 token to the Base Sepolia Testnet.
 
-Try running some of the following tasks:
+## Features
+- ERC20 Standard Compliance
+- Initial Supply Minting
+- Base Sepolia Deployment
+- Contract Verification
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## Prerequisites
+- Node.js v18+
+- npm v9+
+- [MetaMask](https://metamask.io/) with Base Sepolia network
+- [Test ETH](https://faucet.quicknode.com/base/sepolia)
+- [Basescan API Key](https://basescan.org/)
