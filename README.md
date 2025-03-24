@@ -6,7 +6,7 @@ A minimal implementation for deploying a standard ERC20 token to the Base Sepoli
 - ERC20 Standard Compliance
 - Initial Supply Minting
 - Base Sepolia Deployment
-- Contract Verification
+- Contract Verification(https://sepolia.basescan.org/address/0xf9b732170Eaf1d706Ba1d1F91B5209e42de33596#code)
 
 ## Prerequisites
 - Node.js v18+
